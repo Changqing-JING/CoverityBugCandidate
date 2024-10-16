@@ -1,3 +1,10 @@
+## Version
+
+```shell
+cov-analyze --version
+d59b675bea p-2024.6-push-53
+```
+
 ## Reproduce steps
 
 ```shell
