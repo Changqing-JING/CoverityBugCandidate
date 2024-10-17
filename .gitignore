@@ -1,2 +1,3 @@
 coverity_out
 *.o
+.vscode
